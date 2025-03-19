@@ -8,7 +8,7 @@ nav_order: 3
 profiles:
   - align: right
     image: WJ.jpg
-    content: 
+    content: organizer_1.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Wei Jin  </p>
@@ -16,7 +16,7 @@ profiles:
       <p>Emory University</p>
   - align: left
     image: haohanwang.jpg
-    content: 
+    content: organizer_2.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Haohan Wang</p>
