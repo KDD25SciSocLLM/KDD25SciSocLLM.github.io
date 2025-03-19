@@ -7,55 +7,45 @@ nav: true
 nav_order: 2
 ---
 
-### RELEVANCE TO WWW’24 AND AUDIENCE 
+### RELEVANCE TO KDD’25 AND AUDIENCE 
 
-The proposed DCAI Workshop is highly relevant to WWW’24, with its explicit focus on integrating DCAI techniques with the World Wide Web. By offering a dedicated platform for discussions and presentations, the workshop sheds light on how data-centric approaches enrich the Web’s technical infrastructure and deepen our comprehension of it. Additionally, our workshop’s aim of constructing better data aligns with the conference’s scope of democratizing access to Web content and technologies, thereby promoting inclusivity, fairness, and accountability.
+The workshop is particularly relevant to KDD as it aligns with the conference’s commitment to showcasing pioneering datadriven research that bridges the gap between theoretical advances and real-world impact. As the field of LLMs rapidly evolves, its relevance to current challenges in data mining and AI is more apparent than ever. Many KDD participants, both from academia and industry, are actively engaged in exploring and pushing the boundaries of what LLMs can achieve. Notably, both KDD’23 and KDD’24 featured an LLM Day to highlight the exciting opportunities and challenges presented by advancements in LLMs. To provide a more interactive experience and cater to a diverse audience, we propose this workshop with a dedicated focus on the domains of science and society. By bringing together data scientists, AI researchers, domain experts, and policymakers, the workshop will spark engaging discussions about the latest LLM methodologies and their practical implementations. Through invited talks, panel discussions, and interactive sessions, such as oral and poster presentations, participants will gain firsthand insights into how LLMs are making a real difference across various fields, further encouraging interdisciplinary partnerships and innovation. This workshop is designed to drive progress at the crucial intersection of data mining, machine learning, and the challenges faced in science and society, which are core areas that KDD continually strives to advance.
 
-The DCAI Workshop is anticipated to attract a diverse audience, including but not limited to researchers in the fields of AI, machine learning, and data science, and practitioners interested in integrating DCAI solutions into their applications. Given the recent surge in interest in DCAI, we anticipate substantial participation, with an estimated 50 submissions and an attendance of 100 individuals.
+The target audience for the SciSoc LLM Workshop includes a diverse group of stakeholders from academia, industry, and government agencies who are at the forefront of artificial intelligence research and applications. Specifically, the workshop aims to attract computer scientists, data scientists, AI researchers, and domain experts in fields such as healthcare, environmental science, public policy, and social sciences who are interested in the integration and impact of Large Language Models within their disciplines. Additionally, the event seeks to draw in policy makers and technology developers who are focused on ethical considerations and the practical deployment of AI technologies in real-world scenarios. This gathering will provide a unique opportunity for interdisciplinary exchange and collaboration, aiming to foster innovations that drive scientific discovery and address pivotal societal challenges through the advanced capabilities of LLMs.
+
 
 ### PLAN TO ATTRACT QUALITY SUBMISSIONS
 
-We have a distinguished history of organizing impactful tutorials on Data-centric AI, with our recent endeavor at KDD2023 serving as a testament to our commitment and expertise in the field. Our tutorials, combined with our comprehensive surveys on Data-centric AI, highlight our dedication and influential stance in the rapidly evolving landscape of Data-centric AI. Our proven track record ensures that we possess the capability to garner attention and engage a wide audience. To further our outreach, we have plans in place to launch a dedicated Twitter account for the workshop, ensuring real-time updates and engagement with potential attendees. Beyond this, our advertising strategy is multifaceted. We intend to leverage various platforms, from mainstream social media like Facebook and LinkedIn to specialized platforms pertinent to our domain. Moreover, our consistent engagement with the community through various channels, and the upcoming creation of our workshop’s Twitter handle, will act as a beacon to attract interest and high-quality submissions. By integrating all these avenues, we aim to ensure maximum visibility and foster an environment conducive to knowledge-sharing and collaborative growth in the realm of Data-centric AI.
+To attract high-quality submissions, we plan to implement a multifaceted approach that leverages both traditional and innovative outreach strategies. We will initiate a targeted call for papers through well-established mailing lists in the fields of AI, machine learning, and data science, including those of the ACM and IEEE, as well as subscribers of relevant AI and data science newsletters. Additional outreach will occur via social media channels such as LinkedIn, X, WeChat, and Threads, as well as through academic networks like ResearchGate, to reach a broad spectrum of researchers and practitioners. To maximize exposure for the SciSoc LLM Workshop, we also plan to engage directly with university departments and promote through global forums to ensure diverse and international participation.
+
+To encourage participation from top-tier researchers, leading experts in the field will be invited to contribute keynotes and participate in panel discussions. Additionally, collaboration with relevant journals and publications for special issues featuring selected papers from the workshop will provide further incentives for submitting high-caliber work. Recognizing the interdisciplinary nature of the workshop, we will also reach out to professionals in sectors such as healthcare, environmental science, and public policy, ensuring a rich variety of perspectives and innovative applications of LLMs.
 
 ### RELATED WORKSHOPS
 
-Previous workshops have addressed data-centric approaches in AI. The DMLR workshop at ICML 2023 highlighted the importance of data quality, bringing together researchers to discuss data generation, labeling, and governance. The NeurIPS 2021 Data-Centric AI Workshop focused on practical challenges in data, including collection, preprocessing, and quality evaluation. The DataPerf workshop at ICML 2022 introduced benchmarks for evaluating ML datasets, emphasizing the role of data in AI research. Our workshop differs by aiming to provide a deeper exploration of both the theoretical and practical aspects of Data-centric AI. We invite contributions ranging from Data Augmentation techniques to data-centric methods for graphs, offering a more holistic examination of DCAI for the academic community.
+The proposed workshop complements and extends the dialogue from several related workshops previously or concurrently held at major conferences such as KDD, NeurIPS, ICML, and AAAI. Notably, workshops like "Data Science for Social Good," "Machine Learning for Health (ML4H)," and "AI for Science" have similarly explored the intersection of AI technologies and their societal impacts. Additionally, the “Tackling Climate Change with Machine Learning” workshop and the "Machine Learning for Policy and Economics" workshop at NeurIPS have addressed specific applications of data science in critical societal domains. Our workshop aims to specifically harness the capabilities of LLMs, building on these discussions with a focus on their unique potential to revolutionize traditional research methodologies and societal applications. By situating itself within this established framework of scientific discourse, the SciSoc LLM Workshop seeks to provide a novel platform for advancing these conversations with a fresh focus on LLM-driven innovations.
 
 ### TENTATIVE PROGRAM COMMITTEE LIST 
 
-We have connected with a diverse group of scholars interested in serving as program committee members for our workshop. These individuals come from both academia and industry, and our selection includes those from underrepresented backgrounds in STEM, such as females and African Americans.
+We have connected with a diverse group of scholars interested in serving as program committee members (reviewers) for our workshop. These individuals come from both academia and industry, and our selection includes those from underrepresented backgrounds in STEM. The reviewers will include faculty members and senior industrial researchers:
 
-- Jamell Dacon, jamell.dacon@morgan.edu, Morgan State University
-- Mohammad Hashemi, mohammad.hashemi@emory.edu, Emory University
-- Jay Revolinsky, revolin@msu.edu, Michigan State University
-- Harry Shomer, shomerha@msu.edu, Michigan State University
-- Geri Skenderi, geri.skenderi@univr.it, University of Verona
-- Lu Lin, lulin@psu.edu, the Pennsylvania State University
-- Carl Yang, j.carlyang@emory.edu, Emory University
-- Simon Liu, simon.liu@emory.edu, Emory University
-- Jie Ren, renjie3@msu.edu, Michigan State University
-- Xiaorui Liu, xliu96@ncsu.edu, North Carolina State University
-- Tyler Derr, tyler.derr@vanderbilt.edu, Vanderbilt University
-- Hua Liu, sduliuhua@outlook.com, Shandong University
-- Tong Zhao, tong@snap.com, Snap Inc.
-- Xianfeng Tang, xianft@amazon.com, Amazon
-- Haomining Jiang, jhaoming@amazon.com, Amazon
-- Zheng Li, amzzhe@amazon.com, Amazon
-- Neil Shah, neil.shah@snap.com, Snap Research
-- Tong Zhao, tong.zhao@snap.com, Snap Research
-- William Shiao, wshia002@ucr.edu, University of California Riverside
-- Yozen Liu, yliu2@snap.com. Snap Research
+- Jamell Dacon, Morgan State University
+- Meng Jiang, University of Notre Dame
+- Carl Yang, Emory University
+- Zhichun Guo, Emory University
+- Shengpu Tang, Emory University
+- Yuxuan Liang, HKUST
+- Ming Jin, Monash University
+- Yao Ma, RPI
+- Xu Han, University of Arizona
+- Tyler Derr, Vanderbilt University
+- Wei Jin, Emory University
+- Lu Cheng, University of Illinois at Chicago
+- Wenpeng Yin, Penn State
+- Xianfeng Tang, Amazon
+- Qingsong Wen, Squirrel AI
+- Danai Koutra, University of Michigan
+- B. Aditya Prakash, Georgia Tech
+- Yan Liu, University of Southern California
 
-In addition, we will also invite senior PhD students from Emory University, University of Illinois Urbana-Champaign, New York University Shanghai, Rensselaer Polytechnic Institute, University of Wisconsin Madison, and University of Washington.
+Moreover, we will also invite senior PhD students from Emory University, University of Illinois Chicago, Georgia Tech, Penn State University, University of Michigan, University of Illinois Urbana-Champaign, UNC Chapel Hill, and other institutions.
 
-### PLAN TO ENHANCE DIVERSITY
-
-**Team Diversity**: Our organizing team combines academic scholars and industry practitioners, fostering diversity of thought and experience. We are proud to include two accomplished female scholars, further emphasizing our commitment to diversity and inclusivity.
-
-We recognize that diverse participant backgrounds contribute to richer discussions at our workshop. As a result, we especially encourage participants from backgrounds that are under-represented in the WWW community to participate our workshop. To attract diverse participants, we plan to implement the following strategies: 
-
-**Reaching Out to Universities**: Our team is composed of members from diverse universities who have experience collaborating with people from different regions. We plan to leverage our expertise to partner with universities in various regions and promote the workshop to their students. We can reach out to faculty members who teach data science and related courses to encourage their students to participate in this workshop.
-
-**Leveraging Social Media**: Social media platforms such as Facebook, Twitter, and LinkedIn can be powerful tools for promoting the competition. Notably, many of our team members have thousands of followers on the Internet. We will use these platforms to target different regions with specific messaging that resonates with their interests and motivations.
-
-**Collaborating with ACM’s Women in Computing (ACM-W)**: We plan to collaborate with ACM-W, a professional organization for women in computing, to encourage more female participation in the competition and promote gender diversity and inclusivity. Moreover, we can invite some ACM-W members to give talks at our workshop. This will help create a welcoming and supportive environment for women in computing and provide them with resources to succeed in the field.
