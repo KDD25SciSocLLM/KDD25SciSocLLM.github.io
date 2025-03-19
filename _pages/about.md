@@ -2,7 +2,7 @@
 layout: about
 title: Call for Papers
 permalink: /
-subtitle: KDD’25 SciSoc LLM Workshop: Large Language Models for Scientific and Societal Advances
+subtitle: KDD’25 SciSoc LLM Workshop Large Language Models for Scientific and Societal Advances
 ---
 
 <p align="center">
