@@ -2,61 +2,46 @@
 layout: about
 title: Call for Papers
 permalink: /
-subtitle: WWW’24 Workshop Proposal DCAI Data-centric Artificial Intelligence
+subtitle: KDD’25 SciSoc LLM Workshop: Large Language Models for Scientific and Societal Advances
 ---
 
 <p align="center">
-  <img src="../assets/img/WWW24.png" alt="Workshop Image" style="width: 100%">
+  <img src="../assets/img/KDD25-Hero1-100.jpg" alt="Workshop Image" style="width: 100%">
 </p>
 
 ### Overview
 
-The emergence of Data-centric AI (DCAI) represents a pivotal shift in AI development, redirecting focus from model refinement to prioritizing data quality. This paradigmatic transition emphasizes the critical role of data in AI. While past approaches centered on refining models, they often overlooked potential data imperfections, raising questions about the true potential of enhanced model performance. DCAI advocates the systematic engineering of data, complementing existing efforts and playing a vital role in driving AI success. This transition has spurred innovation in various machine learning and data mining algorithms and their applications on the Web. Therefore, we propose the DCAI Workshop at WWW’24, which offers a platform for academic researchers and industry practitioners to showcase the latest advancements in DCAI research and their practical applications in the real world.
+As LLMs such as GPT-4 continue to redefine boundaries in both complexity and capability, their integration into the scientific and societal domains is not just beneficial but essential. In particular, Large Language Models (LLMs) have demonstrated substantial value in improving our understanding of complex datasets and generating insights across various fields such as healthcare, environmental science, education, and public policy. By bringing together experts and enthusiasts from diverse fields, the workshop aims to foster a comprehensive understanding of how LLMs can redefine traditional research methodologies. Participants will explore innovative ways to harness the power of LLMs for greater efficiency and innovation in their respective fields, potentially catalyzing a new era of scientific and societal advancement. Therefore, we propose the SciSoc LLM Workshop at KDD'25: "Large Language Models for Scientific and Societal Advances" aims to explore the profound implications and potential of LLMs in driving forward scientific inquiry and addressing critical societal challenges. 
+
 
 ### OBJECTIVES
 
-Data-centric AI (DCAI) is a burgeoning concept that shifts our attention from advancing model design towards the pursuit of data excellence, which marks a significant surge in recognizing the crucial importance of data in the realm of AI. In the past, AI was predominantly viewed through a model-centric lens, with a primary focus on refining model designs to boost AI performance using fixed datasets. However, this approach tends to neglect potential data imperfections, such as missing values, incorrect labels, and anomalies. This raises the critical question of whether the numerous enhancements in model performance authentically reflect the model’s true potential, or if they are merely a consequence of overfitting to the dataset. DCAI represents an emerging frontier that complements existing efforts, underscoring the systematic engineering of data in AI development, and plays an increasingly important role in propelling AI to success.
+LLMs for scientific and societal advances (SciSoc LLM) represent an evolving concept that shifts the focus from simple questionanswer tasks to broader and more impactful applications in science and society. LLMs have demonstrated capabilities such as solving university-level math problems by generating solution code, supporting language translation, and answering questions on bar exams with high accuracy, all without additional training. Given the expanded scope and increasing power of LLMs, their potential to significantly impact scientific discovery and societal progress is becoming increasingly evident. LLMs have opened up vast opportunities for scaling and accelerating advancements across scientific and social domains. For example, MetaAI introduced the first science-specific LLM designed to support scientific discovery in research, while LLMs have also enabled large-scale computational social science research. These advancements have found LLMs’ potential for scientific and societal advances. 
 
-The transition to DCAI has ignited a wave of innovation in machine learning and data mining algorithms. These encompass a spectrum of cutting-edge techniques such as graph learning, trustworthy machine learning, and Large Language Models (LLMs). These advancements have found applications not only in computer science but have also permeated diverse domains including finance, information systems, mechanical engineering, robotics, and beyond. In this workshop, our objective is to delve into the recent advances in both the theoretical underpinnings and practical applications of DCAI.
+The objective of this workshop is to explore recent advances in both the theoretical foundations and practical applications on science and society of LLMs. We propose the SciSoc LLM Workshop at KDD’25 to serve as a platform where academic researchers and industry professionals can present and discuss cutting-edge research, real-world implementations, and new applications of SciSoc LLMs. This timing aligns perfectly with the current momentum in LLM research and application, making it an essential event for stakeholders aiming to shape the future of scientific and societal advancements. Moreover, the interdisciplinary nature of KDD encourages a broad spectrum of ideas and solutions, which creates an optimal environment for investigating the extensive applications of LLMs. This workshop will also serve as a nice complement to the potential LLM Day at KDD’25, providing a specialized focus on scientific and societal advances and fostering interactions among participants.
 
 ### TOPICS
 
-We enthusiastically invite submissions that focus on recent breakthroughs in the research and development of DCAI, coupled with their real-world applications. Contributions in the form of theory, methodology, and application papers are encouraged from areas **including but not limited to**:
+We enthusiastically invite submissions from diverse fields at the nexus of AI, science, and society, including but not limited to healthcare, environmental science, education, public policy, social science, chemistry, and biology. We particularly encourage contributions that demonstrate the practical applications of LLMs in addressing real-world challenges. Relevant topics, focused on scientific and societal applications, **include but are not limited to** the following list:
 
-- Data Augmentation Methods
-- Efficient Data Labeling Methods
-- Data Collection Strategies
-- Anomaly Detection and Label Correction Methods
-- Data Engineering Methods (e.g., Data Cleaning, Data Imputation, Feature Selection, Dimension Reduction)
-- Data-centric Methods for Graphs (e.g., Graph Structure Learning, Graph Augmentation, Graph Condensation)
-- Data-centric Methods for Machine Learning Robustness, Security, Interpretability, and Fairness.
-- Data-centric Methods for Large Language Models (e.g., Training Data Curation, Evaluation Data Construction, and Prompt Engineering)
-- Data-centric Methods in other domains (e.g., finance, information systems, mechanical engineering, robotics, etc.)
-- Proposing New Datasets or Benchmarks
+- Pre-training scientific foundation models
+- Development of multimodal language models that integrate modalities like images, graphs, and time series
+- Utilization of retrieval-augmented generation techniques
+- Design of scientific multi-agent systems
+- Creation of datasets and benchmarks for LLM evaluation in scientific and societal context
+- Scalable fine-tuning techniques of LLMs in practical applications
+- Active learning strategies with LLMs in practical applications
+- Enhancing code generation for scientific practitioners
 
-The relevant topics are not confined to those listed above. We welcome all contributions that are pertinent to the WWW community, with a focus on developing, iterating, and maintaining data to drive its advancement and help build better AI algorithms.
 
 ### Submission Details
 
-We welcome submissions of papers ranging from 4 to 8 pages as main content, with up to 2 additional pages containing references and an optional appendix. All submissions must be in PDF format and formatted according to the new ACM format published in [ACM guidelines](https://www.acm.org/publications/proceedings-template) (e.g., using the ACM LaTeX template on Overleaf [here](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ)) and selecting the "sigconf" sample. Following the WWW'24 conference submission policy, reviews are double-blind, and author names and affiliations should NOT be listed. Submitted works will be assessed based on their novelty, technical quality, potential impact, and clarity of writing (and should be in English). For papers that primarily rely on empirical evaluations, the experimental settings and results should be clearly presented and repeatable. We encourage authors to make data and code available publicly when possible.
-
-**Accepted papers will be posted on this workshop website. <ins> By default, accepted papers will not appear in the WWW'24 proceedings and are thus non-archival. This allows authors to submit works that are concurrently under review elsewhere or published.</ins> However, authors also have the option to choose archival status, in which case the paper will be included in the official proceeding. Please send us an email in advance if you would like to include the accepted paper in the official proceeding.**
-
-The best paper (according to the reviewers' ratings and organizing committee) will be announced at the end of the workshop.
-
-All submissions must be uploaded electronically to EasyChair at: **[Click this link](https://easychair.org/my/conference?conf=thewebconf2024_workshops)**.
-
-At least one of the authors of the accepted workshop papers must register for the workshop and be present on the day of the workshop.
-
-For questions regarding submissions, please contact us at: **[liangliangz6v6@gmail.com](liangliangz6v6@gmail.com) and [mohammad.hashemi@emory.edu](mailto:mohammad.hashemi@emory.edu)**
+We welcome submissions of papers ...
 
 ### Important Dates
 
 The important dates of the workshop should not be later than:
 
-- Workshop paper submission: **~~February 10~~ February 15, 2024**
-- Workshop paper notification: **March 4, 2024**
-- Workshop paper camera-ready: **March 11, 2024** (FIRM)
-- Workshop date: **May 13, 2024**
+- Workshop paper submission: ...
 
 All submission deadlines are end-of-day in the **[Anywhere on Earth (AoE)](https://time.is/Anywhere_on_Earth)** time zone.
