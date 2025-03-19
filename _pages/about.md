@@ -13,7 +13,6 @@ subtitle: KDD’25 SciSoc LLM Workshop: Large Language Models for Scientific and
 
 As LLMs such as GPT-4 continue to redefine boundaries in both complexity and capability, their integration into the scientific and societal domains is not just beneficial but essential. In particular, Large Language Models (LLMs) have demonstrated substantial value in improving our understanding of complex datasets and generating insights across various fields such as healthcare, environmental science, education, and public policy. By bringing together experts and enthusiasts from diverse fields, the workshop aims to foster a comprehensive understanding of how LLMs can redefine traditional research methodologies. Participants will explore innovative ways to harness the power of LLMs for greater efficiency and innovation in their respective fields, potentially catalyzing a new era of scientific and societal advancement. Therefore, we propose the SciSoc LLM Workshop at KDD'25: "Large Language Models for Scientific and Societal Advances" aims to explore the profound implications and potential of LLMs in driving forward scientific inquiry and addressing critical societal challenges. 
 
-
 ### OBJECTIVES
 
 LLMs for scientific and societal advances (SciSoc LLM) represent an evolving concept that shifts the focus from simple questionanswer tasks to broader and more impactful applications in science and society. LLMs have demonstrated capabilities such as solving university-level math problems by generating solution code, supporting language translation, and answering questions on bar exams with high accuracy, all without additional training. Given the expanded scope and increasing power of LLMs, their potential to significantly impact scientific discovery and societal progress is becoming increasingly evident. LLMs have opened up vast opportunities for scaling and accelerating advancements across scientific and social domains. For example, MetaAI introduced the first science-specific LLM designed to support scientific discovery in research, while LLMs have also enabled large-scale computational social science research. These advancements have found LLMs’ potential for scientific and societal advances. 
@@ -32,7 +31,6 @@ We enthusiastically invite submissions from diverse fields at the nexus of AI, s
 - Scalable fine-tuning techniques of LLMs in practical applications
 - Active learning strategies with LLMs in practical applications
 - Enhancing code generation for scientific practitioners
-
 
 ### Submission Details
 
