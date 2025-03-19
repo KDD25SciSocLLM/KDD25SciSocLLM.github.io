@@ -7,43 +7,27 @@ nav: true
 nav_order: 1
 ---
 
-The full day workshop schedule is planned with two half-day sessions that will be split by the conference planned lunch break.
+Note that our tentative schedule currently has this planned for 13:00-17:00, but we will update accordingly once provided further guidance as to the standardized workshop schedule for KDD’25).
 
-Note that our tentative schedule currently has this planned for 12:30-13:30, but we will update accordingly once provided further guidance as to the standardized workshop schedule for WWW’24.
+Our program will consist of the following main components: 1) invited keynotes from experts in the field of AI4Science coming from both industry and academia to create a synergistic
+atmosphere and to stimulate collaborations, 2) contributed research oral talks selected from the set of accepted
+works into SciSoc LLM, 3) future directions panel discussion that will be composed of our keynote speakers given their expertise in this domain, and 4) contributed poster sessions both before lunch and after the final remarks to allow all those with works accepted into the workshop (not just those selected for oral talks) to present their work and socialize stimulating new ideas and potential collaborations.
 
-Our program will consist of the following main components: 1) invited keynotes from experts in the field of data-centric AI coming from both industry and academia to create a synergistic atmosphere and to stimulate collaborations, 2) contributed research oral talks selected from the set of accepted works into DCAI, 3) future directions panel discussion that will be composed of our keynote speakers given their expertise in this domain, 4) contributed poster sessions both before lunch and after the final remarks to allow all those with works accepted into the workshop (not just those selected for oral talks) to present their work and socialize stimulating new ideas and potential collaborations.
+The 6-hour event excluding coffee and lunch breaks is scheduled
+as follows:
+- 13:00 - 13:10 Welcome & Opening Remarks
+- 13:10 - 13:50 Keynote I
+- 13:50 - 14:20 Contributed Research Oral Talks I
+- 14:20 - 15:00 Keynote II
+- 15:00 - 15:30 Coffee break/Social Networking
+- 15:30 - 16:10 Contributed Research Oral Talks II
+- 16:00 - 16:10 Best Paper Award Ceremony & Final Remarks
+- 16:10 - 17:00 Contributed Research Poster Session
 
-- Morning session
-  - 09:00 - 09:05 Welcome & *Opening Remarks* 
-  - 09:05 - 09:35 *Keynote:* Ethical Considerations for Responsible Data Curation, Jerone Andrews, virtual
-  - 09:35 - 10:05 *Keynote:* Uncharted: The Road to Data-Centric Benchmarking for Medical Foundation Models, Jason Fries, virtual
-  - 10:05 - 10:32 Contributed *Research Oral Talks*
-  - 10:32 - 11:00 *Coffee break* / Social Networking
-  - 11:00 - 11:30 *Keynote:* Data-Centric AI in the Age of Large Language Models, Bryan Kian Hsiang Low, onsite 
-  - 11:30 - 12:00 *Keynote:* Data-Centric AI: Unlock the Power of Feature Space, Yanjie Fu, virtual
-  - 12:00 - 12:30 Contributed *Research Poster Session*
-- Lunch Break (12:30 - 13:30)
-- Afternoon session 
-  - 13:30 - 14:00 *Keynote:* Graph Machine Learning beyond Message Passing: A Data Perspective, Tong Zhao, onsite
-  - 14:00 - 14:30 *Keynote:* Towards Building Reliable Multi-Modal AI Assistant, Ziwei Liu, onsite
-  - 14:30 - 15:00 Contributed *Research Oral Talks*
-  - 15:00 - 15:30 *Coffee break* / Social Networking
-  - 15:30 - 16:20 Contributed *Research Oral Talks*
-  - 16:20 - 16:25 *Final Remarks*
-  - 16:25 - 17:10 Contributed *Research Poster Session*
-
-<!--
-**Panel.** Our anticipation is to have a panel as the final component of the workshop before the last poster session, best paper award ceremony, and final remarks. The panelists will be a subset of our keynote speakers and organizers and will focus on the future directions in the area of machine learning on graphs. We believe this is the most fitting formal final component of the workshop and hope that it will help stimulate conversions at the end during the post-session consisting of contributed research to the workshop.
--->
 
 #### Selection Process 
 
-The six invited keynote speakers from both academia and industry (three each) are planned to be well recognized in the WWW community, especially in the subcommunity focused on data-centric AI. We note that each keynote will be presented as a lecture with slides and there will be a short Q/A session at the end of each keynote.
+Keynote Speakers & Panelists. The keynote speakers from both academia and industry are planned to be well-recognized in the machine learning and data mining community, especially in the subcommunity focused on LLMs for Science and Society. Some of the invited keynote speakers have already agreed upon, and they have accepted conditional on the acceptance of our proposed SciSoc LLM workshop at KDD’25. The remaining keynote speakers and panelists will be selected by the SciSoc LLM organization committee and will ensure a balanced distribution of those coming from industry and academia.
 
-This workshop CFP is for paper submissions that will undergo the standard double-blind peer-review process. We will invite a well-experienced set of program committee members for DCAI to first guarantee each paper submission will be reviewed by at least two PC members and second to ensure an informed and fair evaluation of the work being submitted. Based upon the reviews provided by PC members, the final recommendation of acceptance or rejection to DCAI at WWW’24 will be made by the workshop organizers.
+Submissions & Review Process. The workshop CFP is for paper submissions that will undergo the standard double-blind peerreview process to avoid biases. We will utilize OpenReview for managing submissions and reviews. We will invite a well-experienced set of program committee members for SciSoc LLM to first guarantee each paper submission will be reviewed by at least two PC members and second to ensure an informed and fair evaluation of the work being submitted. Based upon the reviews provided by PC members, the final recommendation of acceptance or rejection to SciSoc LLM at KDD’25 will be made by the workshop organizers. The detailed review comments and notification letter will be sent to the authors accordingly along with detailed information as to whether they have been accepted for an oral or poster presentation (as noted above in the tentative workshop schedule).
 
-The detailed review comments and notification letter will be sent to the authors accordingly along with detailed information as to whether they have been accepted for an oral or poster presentation (as noted above in the tentative workshop schedule).
-
-#### Online Materials
-
-A website for this workshop will be made available online if our workshop is accepted into WWW’24, which will include all the relevant information and materials including CFP, schedule, organization and PC member lists, keynote speaker and talk information, presentation slides and posters, accepted papers, etc. We will extend the website from DCAI at WWW’24 to include the details for our proposed second iteration to be held at WWW’24.
