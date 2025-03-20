@@ -66,6 +66,7 @@ The important dates of the workshop should not be later than:
   - Workshop Paper Submission: May 8th, 2025
   - Workshop Paper Notification: June 8th, 2025
 
+
 * Practical Workshop Organization Dates:
   - Workshop Website and CFP: April 15th, 2025
   - Notifications to Workshop Chairs (number of papers, acceptance rate, etc.): June 15th, 2025
