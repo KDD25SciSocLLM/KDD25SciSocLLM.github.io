@@ -11,17 +11,15 @@ profiles:
     content: organizer_1.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Wei Jin  </p>
-      <p>Assistant Professor</p>
-      <p>Emory University</p>
+      <p class="name">Wei Jin</p>
+      <p class="institution">Emory University</p>
   - align: left
     image: haohanwang.jpg
     content: organizer_2.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Haohan Wang</p>
-      <p>Assistant Professor</p>
-      <p>University of Illinois Urbana-Champaign</p>
+      <p class="name">Haohan Wang</p>
+      <p class="institution">University of Illinois Urbana-Champaign</p>
 ---
 
 ### WEB CHAIRS
