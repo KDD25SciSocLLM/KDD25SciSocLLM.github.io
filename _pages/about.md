@@ -31,7 +31,8 @@ We particularly encourage contributions that demonstrate the practical applicati
 - Scalable fine-tuning techniques of LLMs in practical applications
 - Active learning strategies with LLMs in practical applications
 - Enhancing code generation for scientific practitioners
-- **Scientific and Societal Applications** including but not limited to: healthcare, environmental science, education, public policy, social science, chemistry, and biology
+
+We enthusiastically invite submissions from diverse fields at the nexus of AI, Science, Society, and **Scientific and Societal Applications** including but not limited to healthcare, environmental science, education, public policy, social science, chemistry, and biology. 
 
 ### Submission Details
 
