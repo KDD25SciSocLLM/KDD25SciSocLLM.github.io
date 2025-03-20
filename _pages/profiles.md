@@ -73,4 +73,3 @@ profiles:
 
 [Juntong Ni](https://lingfenggold.github.io/), PhD Student, Emory University.
 
-*(Equal contribution)*
