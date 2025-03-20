@@ -80,14 +80,14 @@ profiles:
 </div> -->
 
 <div class="profiles-container" style="display: flex; gap: 60px; align-items: flex-start;">
-  <div class="profile" style="display: flex; flex-direction: column; align-items: center; width: 250px;">
-    <img src="{{ '/assets/img/heng_ji.jpeg' | relative_url }}" class="circular" style="width: 220px; height: 220px; object-fit: cover;" alt="Heng Ji">
+  <div class="profile" style="display: flex; flex-direction: column; align-items: center; width: 270px;">
+    <img src="{{ '/assets/img/heng_ji.jpeg' | relative_url }}" class="circular" style="width: 180px; height: 180px; object-fit: cover;" alt="Heng Ji">
     <p class="name" style="margin: 10px 0; font-size: 20px; font-weight: bold; text-align: center;">Heng Ji</p>
     <p class="institution" style="margin: 0; font-size: 16px; text-align: center;">University of Illinois Urbana-Champaign</p>
   </div>
 
-  <div class="profile" style="display: flex; flex-direction: column; align-items: center; width: 250px;">
-    <img src="{{ '/assets/img/bansal.jpeg' | relative_url }}" class="circular" style="width: 220px; height: 220px; object-fit: cover;" alt="Mohit Bansal">
+  <div class="profile" style="display: flex; flex-direction: column; align-items: center; width: 270px;">
+    <img src="{{ '/assets/img/bansal.jpeg' | relative_url }}" class="circular" style="width: 180px; height: 180px; object-fit: cover;" alt="Mohit Bansal">
     <p class="name" style="margin: 10px 0; font-size: 20px; font-weight: bold; text-align: center;">Mohit Bansal</p>
     <p class="institution" style="margin: 0; font-size: 16px; text-align: center;">University of North Carolina (UNC) Chapel Hill</p>
   </div>
