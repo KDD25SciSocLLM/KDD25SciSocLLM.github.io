@@ -69,7 +69,7 @@ profiles:
 
 [Zewen Liu](https://nuuuh.github.io/), PhD Student, Emory University.
 
-[Dehai Min](https://mohammadhashemii.github.io/), Master Student, Monash University.
+[Dehai Min](https://zhishanq.github.io/), Master Student, Monash University.
 
 [Juntong Ni](https://lingfenggold.github.io/), PhD Student, Emory University.
 
