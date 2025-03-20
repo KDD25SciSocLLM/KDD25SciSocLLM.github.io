@@ -4,45 +4,59 @@ layout: page
 
 <!-- about.html -->
       <div class="post">
-
         <article>
-          {% if page.profiles -%}
-          {% for profile in page.profiles %}
-          <hr>
-          <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-            {%- if profile.image %}
-              {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
-
-              {% if profile.image_circular %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
-              {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+          {% if page.profiles %}
+          <div class="profiles-container">
+            {% for profile in page.profiles %}
+            <div class="profile">
+              {% if profile.image %}
+                {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+      
+                {% if profile.image_circular %}
+                  {% assign profile_image_class = "img-fluid z-depth-1 rounded-circle" %}
+                {% else %}
+                  {% assign profile_image_class = "img-fluid z-depth-1 rounded" %}
+                {% endif %}
+      
+                {% include figure.html
+                path=profile_image_path
+                class=profile_image_class
+                alt=profile.image %}
               {% endif %}
-
-              {% include figure.html
-              path=profile_image_path
-              class=profile_image_class
-              alt=profile.image -%}
-            {% endif -%}
-            {%- if profile.more_info %}
-            <div class="more-info">
-              {{ profile.more_info }}
+              {% if profile.more_info %}
+              <div class="more-info">
+                {{ profile.more_info }}
+              </div>
+              {% endif %}
             </div>
-            {%- endif %}
+            {% endfor %}
           </div>
-
-          <div class="clearfix">
-            {% if profile.content -%}
-            {% capture profile_content %}{%- include_relative {{ profile.content }} %}{% endcapture %}
-            {{ profile_content | markdownify }}
-            {%- else -%}
-            {{ content }}
-            {%- endif %}
-          </div>
-
-          {% endfor %}
-          {%- endif %}
+          {% endif %}
           {{ content }}
         </article>
+            
 
 </div>
+
+<style>
+.profiles-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.profile {
+  flex: 0 1 calc(20% - 20px); /* Adjust the 20px based on desired margins */
+  margin: 10px;
+  text-align: center;
+}
+
+.profile img {
+  max-width: 100%;
+  height: auto;
+}
+
+.more-info {
+  margin-top: 5px;
+}
+</style>
