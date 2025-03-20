@@ -21,7 +21,9 @@ The objective of this workshop is to explore recent advances in both the theoret
 
 ### TOPICS
 
-We enthusiastically invite submissions from diverse fields at the nexus of AI, science, and society, including but not limited to healthcare, environmental science, education, public policy, social science, chemistry, and biology. We particularly encourage contributions that demonstrate the practical applications of LLMs in addressing real-world challenges. Relevant topics, focused on scientific and societal applications, **include but are not limited to** the following list:
+We enthusiastically invite submissions from diverse fields at the nexus of AI, Science, Society, and **Scientific and Societal Applications** including but not limited to healthcare, environmental science, education, public policy, social science, chemistry, and biology. 
+
+We particularly encourage contributions that demonstrate the practical applications of LLMs in addressing real-world challenges. Relevant topics, focused on scientific and societal applications, **include but are not limited to** the following list:
 
 - Pre-training scientific foundation models
 - Development of multimodal language models that integrate modalities like images, graphs, and time series
@@ -34,12 +36,40 @@ We enthusiastically invite submissions from diverse fields at the nexus of AI, s
 
 ### Submission Details
 
-We welcome submissions of papers ...
+We welcome two types of submissions: 
+* Full research papers – up to 8 pages of main content, with unlimited additional pages for references and an optional appendix. 
+* Short research papers, technical papers, and vision papers – up to 4 pages of main content, plus one additional page for references and an optional appendix.
+
+All submissions must be in PDF format, written in English, formatted in double columns, and adhere to the [ACM template and guidelines](https://www.acm.org/publications/proceedings-template) (also available in [Overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty)). Following the KDD’25 conference submission policy, reviews are double-blind, and author names and affiliations should NOT be listed. The recommended setting for LaTeX is:
+```
+\documentclass[sigconf,anonymous,review]{acmart}.
+```
+
+Submitted works will be assessed based on their novelty, technical quality, potential impact, and clarity of writing. For papers that primarily rely on empirical evaluations, the experimental settings and results should be clearly presented and repeatable. We encourage authors to make data and code available publicly when possible.
+
+Accepted papers will be made available on the workshop website but will not be part of the KDD’25 proceedings, as they are **non-archival**. This allows authors to submit works that are concurrently under review elsewhere or published. 
+
+The best paper (according to the reviewers’ ratings and organizing committee) will be announced at the end of the workshop.
+
+All submissions must be uploaded electronically to Openreview at: [Click this link](https://openreview.net/group?id=KDD.org/2025/Workshop/SciSocLLM).
+
+At least one of the authors of the accepted workshop papers must register for the workshop and be present on the day of the workshop.
+
+For questions regarding submissions, please contact us at: kdd25scisocllm@gmail.com
+
 
 ### Important Dates
 
 The important dates of the workshop should not be later than:
 
-- Workshop paper submission: ...
+* Workshop Paper Submission Dates (tentative):
+  - Workshop Paper Submission: May 8th, 2025
+  - Workshop Paper Notification: June 8th, 2025
+
+* Practical Workshop Organization Dates:
+  - Workshop Website and CFP: April 15th, 2025
+  - Notifications to Workshop Chairs (number of papers, acceptance rate, etc.): June 15th, 2025
+  - Final Submission of Workshop Program and Materials and Full Workshop Websites Online: June 24th, 2025
+  - Workshop Date: August 6th, 2025
 
 All submission deadlines are end-of-day in the **[Anywhere on Earth (AoE)](https://time.is/Anywhere_on_Earth)** time zone.
