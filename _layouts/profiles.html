@@ -46,14 +46,16 @@ layout: page
 }
 
 .profile {
-  flex: 0 1 calc(20% - 20px); /* Adjust the 20px based on desired margins */
+  flex: 0 1 calc(25% - 20px); /* Adjust the 20px based on desired margins */
   margin: 10px;
   text-align: center;
 }
 
 .profile img {
-  max-width: 100%;
-  height: auto;
+  width: 150px; /* 固定宽度 */
+  height: 150px; /* 固定高度 */
+  border-radius: 50%; /* 裁剪为圆形 */
+  object-fit: cover; /* 确保图片填满圆形 */
 }
 
 .more-info {

@@ -21,8 +21,6 @@ The objective of this workshop is to explore recent advances in both the theoret
 
 ### TOPICS
 
-We enthusiastically invite submissions from diverse fields at the nexus of AI, Science, Society, and **Scientific and Societal Applications** including but not limited to healthcare, environmental science, education, public policy, social science, chemistry, and biology. 
-
 We particularly encourage contributions that demonstrate the practical applications of LLMs in addressing real-world challenges. Relevant topics, focused on scientific and societal applications, **include but are not limited to** the following list:
 
 - Pre-training scientific foundation models
@@ -33,6 +31,8 @@ We particularly encourage contributions that demonstrate the practical applicati
 - Scalable fine-tuning techniques of LLMs in practical applications
 - Active learning strategies with LLMs in practical applications
 - Enhancing code generation for scientific practitioners
+
+We enthusiastically invite submissions from diverse fields at the nexus of AI, Science, Society, and **Scientific and Societal Applications** including but not limited to healthcare, environmental science, education, public policy, social science, chemistry, and biology. 
 
 ### Submission Details
 
